@@ -49,3 +49,11 @@ I've been coding for almost 6 years now and I'm always learning something new.
 <a href="http://www.github.com/DanEA01"><img src="https://github-readme-streak-stats.herokuapp.com/?user=DanEA01&stroke=000000&background=ffffff&ring=3382ed&fire=3382ed&currStreakNum=000000&currStreakLabel=3382ed&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/DanEA01" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanEA01&langs_count=10&title_color=3382ed&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+<b>Top Repositories</b>
+
+<div width="100%" align="center"><a href="https://github.com/DanEA01/wedding" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DanEA01&repo=wedding&title_color=3382ed&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a><a href="https://github.com/DanEA01/financemanager" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DanEA01&repo=financemanager&title_color=3382ed&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
+
+<br /><br /><br /><br /><br />
+
+<div width="100%" align="center"><a href="https://github.com/DanEA01/FM-API" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=DanEA01&repo=FM-API&title_color=3382ed&text_color=000000&icon_color=0891b2&bg_color=ffffff&hide_border=true&locale=en" /></a></div>
