@@ -7,7 +7,7 @@ Full-stack developer
 I've been coding for almost 6 years now and I'm always learning something new.
 
 * 🌍  I'm based in Mexico City
-* 🖥️  See my portfolio at [MyPortafolio](https://danielpfl.com)
+* 🖥️  See my portfolio at [MyPortafolio](https://danpfl.com)
 * ✉️  You can contact me at [gdea\_18@hotmail.com](mailto:gdea_18@hotmail.com)
 * 🚀  I'm currently working on [Finance Manager](http://fm.solbios.com/login)
 * 🧠  I'm learning React and starting on Phyton
